@@ -1,0 +1,10 @@
+tensorflow==2.10.0  # Downgrade to a stable version if 2.18.0 causes issues
+numpy
+scikit-learn
+pillow
+flask
+flask-cors
+requests
+matplotlib
+ipython
+gunicorn  # Added for production deployment
